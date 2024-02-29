@@ -1,0 +1,63 @@
+fieldset{
+    border-radius: 0 20px 0 20px;
+    height: 80%;
+}
+
+fieldset li{
+    margin-bottom: 10px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #e6f2ff;
+}
+
+#nav {
+    border-radius: 10px;
+    margin-top: -5px;
+}
+#nav td:hover{
+    background-color: white;
+    color: cornsilk;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    font-weight: bolder;
+    color: blue;
+}
+
+#bio img{
+    width: 35%;
+    border-radius: 50%;
+    
+}
+
+#bio img:hover{
+    width: 50%;
+    border-radius: 50%;
+    
+}
+
+#study img{
+    border-radius: 10px;
+    width: 400px;
+}
+
+#study img:hover{
+    border-radius: 10px;
+    width: 100%;
+}
+
+#study td,th{
+    border-radius: 10px;
+}
+#study td:hover,th:hover{
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: cornsilk;
+}
